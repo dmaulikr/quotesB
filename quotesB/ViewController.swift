@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    //I am developer B and I create a lot of code on the ViewController
 
 }
 
