@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var labelAction: UILabel!
+    
     @IBAction func displayNewQuotes(_ sender: Any) {
         print("Press \"Display New Quotes\"")
     }
