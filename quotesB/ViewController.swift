@@ -28,4 +28,4 @@ class ViewController: UIViewController {
     }
 
 }
-
+//18 developerA branch から master branch へマージ操作した。
